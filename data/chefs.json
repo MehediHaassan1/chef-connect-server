@@ -1,91 +1,12 @@
 [
     {
         "_id": "65aa135408e0ac9804858693",
-        "chefName": "Giuseppe Rossi",
+        "chefName": "Giusep Rossi",
         "experienceYears": 20,
         "numOfRecipes": 150,
         "likes": 30000,
         "shortBio": "Renowned for his innovative approach to traditional Italian cuisine.",
-        "chefPicture": "giuseppe_rossi.jpg",
-        "recipes": [
-            {
-                "recipeName": "Spaghetti Bolognese",
-                "ingredients": [
-                    "Ground beef",
-                    "Tomatoes",
-                    "Onions",
-                    "Garlic",
-                    "Spaghetti",
-                    "Olive oil",
-                    "Basil",
-                    "Oregano"
-                ],
-                "cookingMethod": "Brown ground beef, sauté onions and garlic, add tomatoes and herbs, simmer. Serve over cooked spaghetti.",
-                "rating": 4.7
-            },
-            {
-                "recipeName": "Margherita Pizza",
-                "ingredients": [
-                    "Pizza dough",
-                    "Tomato sauce",
-                    "Fresh mozzarella",
-                    "Basil leaves",
-                    "Olive oil",
-                    "Salt"
-                ],
-                "cookingMethod": "Roll out pizza dough, spread sauce, add cheese and basil. Bake until crust is golden. Drizzle with olive oil and sprinkle salt.",
-                "rating": 4.9
-            },
-            {
-                "recipeName": "Risotto ai Funghi",
-                "ingredients": [
-                    "Arborio rice",
-                    "Mushrooms",
-                    "Chicken broth",
-                    "Onion",
-                    "White wine",
-                    "Parmesan cheese",
-                    "Butter"
-                ],
-                "cookingMethod": "Sauté mushrooms and onions, add rice, deglaze with wine, gradually add broth, stir in Parmesan and butter.",
-                "rating": 4.5
-            },
-            {
-                "recipeName": "Tiramisu",
-                "ingredients": [
-                    "Ladyfingers",
-                    "Espresso",
-                    "Mascarpone cheese",
-                    "Eggs",
-                    "Sugar",
-                    "Cocoa powder"
-                ],
-                "cookingMethod": "Dip ladyfingers in espresso, layer with a mixture of mascarpone, eggs, and sugar. Dust with cocoa powder.",
-                "rating": 4.8
-            },
-            {
-                "recipeName": "Pasta Carbonara",
-                "ingredients": [
-                    "Spaghetti",
-                    "Guanciale",
-                    "Eggs",
-                    "Parmesan cheese",
-                    "Black pepper",
-                    "Salt"
-                ],
-                "cookingMethod": "Sauté guanciale, mix eggs with cheese, toss with cooked spaghetti. Season with black pepper and salt.",
-                "rating": 4.6
-            }
-        ]
-    },
-    {
-        "_id": "65aa13546283357a46962589",
-        "chefName": "Isabella Bianchi",
-        "experienceYears": 18,
-        "numOfRecipes": 130,
-        "likes": 28000,
-        "shortBio": "Passionate about crafting delicious and visually stunning dishes.",
-        "chefPicture": "isabella_bianchi.jpg",
+        "chefPicture": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?q=80&w=1387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "recipes": [
             {
                 "recipeName": "Spaghetti Bolognese",
@@ -164,7 +85,7 @@
         "numOfRecipes": 120,
         "likes": 25000,
         "shortBio": "Dedicated to preserving the authenticity of regional Italian flavors.",
-        "chefPicture": "luca_ferrari.jpg",
+        "chefPicture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "recipes": [
             {
                 "recipeName": "Spaghetti Bolognese",
@@ -238,12 +159,12 @@
     },
     {
         "_id": "65aa13547de2bbd0456dd956",
-        "chefName": "Sofia Romano",
+        "chefName": "Sofia Rano",
         "experienceYears": 12,
         "numOfRecipes": 100,
         "likes": 22000,
         "shortBio": "Melding tradition and modernity in every culinary creation.",
-        "chefPicture": "sofia_romano.jpg",
+        "chefPicture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "recipes": [
             {
                 "recipeName": "Spaghetti Bolognese",
@@ -317,12 +238,12 @@
     },
     {
         "_id": "65aa1354580e21986d84f5e6",
-        "chefName": "Alessio Moretti",
+        "chefName": "Aleio Motti",
         "experienceYears": 10,
         "numOfRecipes": 90,
         "likes": 20000,
         "shortBio": "A culinary artist with a flair for innovative Italian gastronomy.",
-        "chefPicture": "alessio_moretti.jpg",
+        "chefPicture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "recipes": [
             {
                 "recipeName": "Spaghetti Bolognese",
@@ -401,7 +322,7 @@
         "numOfRecipes": 110,
         "likes": 24000,
         "shortBio": "Infusing passion and creativity into every dish she creates.",
-        "chefPicture": "elena_conti.jpg",
+        "chefPicture": "https://images.unsplash.com/photo-1622221410151-2e0c403c5c38?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fGNoZWZzfGVufDB8fDB8fHww",
         "recipes": [
             {
                 "recipeName": "Spaghetti Bolognese",
@@ -475,12 +396,12 @@
     },
     {
         "_id": "65aa1354cd0631d03795ebce",
-        "chefName": "Antonio Marini",
+        "chefName": "Antonio Rini",
         "experienceYears": 16,
         "numOfRecipes": 140,
         "likes": 27000,
         "shortBio": "A maestro in the art of blending flavors to perfection.",
-        "chefPicture": "antonio_marini.jpg",
+        "chefPicture": "https://images.unsplash.com/photo-1574966740637-12c84035a4f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fGNoZWZzfGVufDB8fDB8fHww",
         "recipes": [
             {
                 "recipeName": "Spaghetti Bolognese",
@@ -554,12 +475,12 @@
     },
     {
         "_id": "65aa1354672cad4e93103f0e",
-        "chefName": "Giulia De Luca",
+        "chefName": "De Luca",
         "experienceYears": 13,
         "numOfRecipes": 105,
         "likes": 23000,
         "shortBio": "Crafting culinary masterpieces that evoke the spirit of Italy.",
-        "chefPicture": "giulia_deLuca.jpg",
+        "chefPicture": "https://images.unsplash.com/photo-1611657365907-1ca5d9799f59?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fGNoZWZzfGVufDB8fDB8fHww",
         "recipes": [
             {
                 "recipeName": "Spaghetti Bolognese",
@@ -638,7 +559,7 @@
         "numOfRecipes": 95,
         "likes": 21000,
         "shortBio": "A culinary explorer, constantly pushing the boundaries of taste.",
-        "chefPicture": "marco_russo.jpg",
+        "chefPicture": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fGNoZWZzfGVufDB8fDB8fHww",
         "recipes": [
             {
                 "recipeName": "Spaghetti Bolognese",
@@ -717,7 +638,86 @@
         "numOfRecipes": 125,
         "likes": 26000,
         "shortBio": "Marrying tradition with innovation to create unforgettable dining experiences.",
-        "chefPicture": "sophia_ferrari.jpg",
+        "chefPicture": "https://images.unsplash.com/photo-1470114755716-3e1124c6c3bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fGNoZWZzfGVufDB8fDB8fHww",
+        "recipes": [
+            {
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Ground beef",
+                    "Tomatoes",
+                    "Onions",
+                    "Garlic",
+                    "Spaghetti",
+                    "Olive oil",
+                    "Basil",
+                    "Oregano"
+                ],
+                "cookingMethod": "Brown ground beef, sauté onions and garlic, add tomatoes and herbs, simmer. Serve over cooked spaghetti.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomato sauce",
+                    "Fresh mozzarella",
+                    "Basil leaves",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "cookingMethod": "Roll out pizza dough, spread sauce, add cheese and basil. Bake until crust is golden. Drizzle with olive oil and sprinkle salt.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Risotto ai Funghi",
+                "ingredients": [
+                    "Arborio rice",
+                    "Mushrooms",
+                    "Chicken broth",
+                    "Onion",
+                    "White wine",
+                    "Parmesan cheese",
+                    "Butter"
+                ],
+                "cookingMethod": "Sauté mushrooms and onions, add rice, deglaze with wine, gradually add broth, stir in Parmesan and butter.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Eggs",
+                    "Sugar",
+                    "Cocoa powder"
+                ],
+                "cookingMethod": "Dip ladyfingers in espresso, layer with a mixture of mascarpone, eggs, and sugar. Dust with cocoa powder.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Pasta Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Guanciale",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Black pepper",
+                    "Salt"
+                ],
+                "cookingMethod": "Sauté guanciale, mix eggs with cheese, toss with cooked spaghetti. Season with black pepper and salt.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "_id": "65aa13546283357a46962589",
+        "chefName": "Isabella Anchi",
+        "experienceYears": 18,
+        "numOfRecipes": 130,
+        "likes": 28000,
+        "shortBio": "Passionate about crafting delicious and visually stunning dishes.",
+        "chefPicture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "recipes": [
             {
                 "recipeName": "Spaghetti Bolognese",
