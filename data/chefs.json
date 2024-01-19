@@ -1,0 +1,792 @@
+[
+    {
+        "_id": "65aa135408e0ac9804858693",
+        "chefName": "Giuseppe Rossi",
+        "experienceYears": 20,
+        "numOfRecipes": 150,
+        "likes": 30000,
+        "shortBio": "Renowned for his innovative approach to traditional Italian cuisine.",
+        "chefPicture": "giuseppe_rossi.jpg",
+        "recipes": [
+            {
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Ground beef",
+                    "Tomatoes",
+                    "Onions",
+                    "Garlic",
+                    "Spaghetti",
+                    "Olive oil",
+                    "Basil",
+                    "Oregano"
+                ],
+                "cookingMethod": "Brown ground beef, sauté onions and garlic, add tomatoes and herbs, simmer. Serve over cooked spaghetti.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomato sauce",
+                    "Fresh mozzarella",
+                    "Basil leaves",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "cookingMethod": "Roll out pizza dough, spread sauce, add cheese and basil. Bake until crust is golden. Drizzle with olive oil and sprinkle salt.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Risotto ai Funghi",
+                "ingredients": [
+                    "Arborio rice",
+                    "Mushrooms",
+                    "Chicken broth",
+                    "Onion",
+                    "White wine",
+                    "Parmesan cheese",
+                    "Butter"
+                ],
+                "cookingMethod": "Sauté mushrooms and onions, add rice, deglaze with wine, gradually add broth, stir in Parmesan and butter.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Eggs",
+                    "Sugar",
+                    "Cocoa powder"
+                ],
+                "cookingMethod": "Dip ladyfingers in espresso, layer with a mixture of mascarpone, eggs, and sugar. Dust with cocoa powder.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Pasta Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Guanciale",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Black pepper",
+                    "Salt"
+                ],
+                "cookingMethod": "Sauté guanciale, mix eggs with cheese, toss with cooked spaghetti. Season with black pepper and salt.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "_id": "65aa13546283357a46962589",
+        "chefName": "Isabella Bianchi",
+        "experienceYears": 18,
+        "numOfRecipes": 130,
+        "likes": 28000,
+        "shortBio": "Passionate about crafting delicious and visually stunning dishes.",
+        "chefPicture": "isabella_bianchi.jpg",
+        "recipes": [
+            {
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Ground beef",
+                    "Tomatoes",
+                    "Onions",
+                    "Garlic",
+                    "Spaghetti",
+                    "Olive oil",
+                    "Basil",
+                    "Oregano"
+                ],
+                "cookingMethod": "Brown ground beef, sauté onions and garlic, add tomatoes and herbs, simmer. Serve over cooked spaghetti.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomato sauce",
+                    "Fresh mozzarella",
+                    "Basil leaves",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "cookingMethod": "Roll out pizza dough, spread sauce, add cheese and basil. Bake until crust is golden. Drizzle with olive oil and sprinkle salt.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Risotto ai Funghi",
+                "ingredients": [
+                    "Arborio rice",
+                    "Mushrooms",
+                    "Chicken broth",
+                    "Onion",
+                    "White wine",
+                    "Parmesan cheese",
+                    "Butter"
+                ],
+                "cookingMethod": "Sauté mushrooms and onions, add rice, deglaze with wine, gradually add broth, stir in Parmesan and butter.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Eggs",
+                    "Sugar",
+                    "Cocoa powder"
+                ],
+                "cookingMethod": "Dip ladyfingers in espresso, layer with a mixture of mascarpone, eggs, and sugar. Dust with cocoa powder.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Pasta Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Guanciale",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Black pepper",
+                    "Salt"
+                ],
+                "cookingMethod": "Sauté guanciale, mix eggs with cheese, toss with cooked spaghetti. Season with black pepper and salt.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "_id": "65aa13541f083ef2ff895b9d",
+        "chefName": "Luca Ferrari",
+        "experienceYears": 15,
+        "numOfRecipes": 120,
+        "likes": 25000,
+        "shortBio": "Dedicated to preserving the authenticity of regional Italian flavors.",
+        "chefPicture": "luca_ferrari.jpg",
+        "recipes": [
+            {
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Ground beef",
+                    "Tomatoes",
+                    "Onions",
+                    "Garlic",
+                    "Spaghetti",
+                    "Olive oil",
+                    "Basil",
+                    "Oregano"
+                ],
+                "cookingMethod": "Brown ground beef, sauté onions and garlic, add tomatoes and herbs, simmer. Serve over cooked spaghetti.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomato sauce",
+                    "Fresh mozzarella",
+                    "Basil leaves",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "cookingMethod": "Roll out pizza dough, spread sauce, add cheese and basil. Bake until crust is golden. Drizzle with olive oil and sprinkle salt.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Risotto ai Funghi",
+                "ingredients": [
+                    "Arborio rice",
+                    "Mushrooms",
+                    "Chicken broth",
+                    "Onion",
+                    "White wine",
+                    "Parmesan cheese",
+                    "Butter"
+                ],
+                "cookingMethod": "Sauté mushrooms and onions, add rice, deglaze with wine, gradually add broth, stir in Parmesan and butter.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Eggs",
+                    "Sugar",
+                    "Cocoa powder"
+                ],
+                "cookingMethod": "Dip ladyfingers in espresso, layer with a mixture of mascarpone, eggs, and sugar. Dust with cocoa powder.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Pasta Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Guanciale",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Black pepper",
+                    "Salt"
+                ],
+                "cookingMethod": "Sauté guanciale, mix eggs with cheese, toss with cooked spaghetti. Season with black pepper and salt.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "_id": "65aa13547de2bbd0456dd956",
+        "chefName": "Sofia Romano",
+        "experienceYears": 12,
+        "numOfRecipes": 100,
+        "likes": 22000,
+        "shortBio": "Melding tradition and modernity in every culinary creation.",
+        "chefPicture": "sofia_romano.jpg",
+        "recipes": [
+            {
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Ground beef",
+                    "Tomatoes",
+                    "Onions",
+                    "Garlic",
+                    "Spaghetti",
+                    "Olive oil",
+                    "Basil",
+                    "Oregano"
+                ],
+                "cookingMethod": "Brown ground beef, sauté onions and garlic, add tomatoes and herbs, simmer. Serve over cooked spaghetti.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomato sauce",
+                    "Fresh mozzarella",
+                    "Basil leaves",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "cookingMethod": "Roll out pizza dough, spread sauce, add cheese and basil. Bake until crust is golden. Drizzle with olive oil and sprinkle salt.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Risotto ai Funghi",
+                "ingredients": [
+                    "Arborio rice",
+                    "Mushrooms",
+                    "Chicken broth",
+                    "Onion",
+                    "White wine",
+                    "Parmesan cheese",
+                    "Butter"
+                ],
+                "cookingMethod": "Sauté mushrooms and onions, add rice, deglaze with wine, gradually add broth, stir in Parmesan and butter.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Eggs",
+                    "Sugar",
+                    "Cocoa powder"
+                ],
+                "cookingMethod": "Dip ladyfingers in espresso, layer with a mixture of mascarpone, eggs, and sugar. Dust with cocoa powder.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Pasta Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Guanciale",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Black pepper",
+                    "Salt"
+                ],
+                "cookingMethod": "Sauté guanciale, mix eggs with cheese, toss with cooked spaghetti. Season with black pepper and salt.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "_id": "65aa1354580e21986d84f5e6",
+        "chefName": "Alessio Moretti",
+        "experienceYears": 10,
+        "numOfRecipes": 90,
+        "likes": 20000,
+        "shortBio": "A culinary artist with a flair for innovative Italian gastronomy.",
+        "chefPicture": "alessio_moretti.jpg",
+        "recipes": [
+            {
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Ground beef",
+                    "Tomatoes",
+                    "Onions",
+                    "Garlic",
+                    "Spaghetti",
+                    "Olive oil",
+                    "Basil",
+                    "Oregano"
+                ],
+                "cookingMethod": "Brown ground beef, sauté onions and garlic, add tomatoes and herbs, simmer. Serve over cooked spaghetti.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomato sauce",
+                    "Fresh mozzarella",
+                    "Basil leaves",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "cookingMethod": "Roll out pizza dough, spread sauce, add cheese and basil. Bake until crust is golden. Drizzle with olive oil and sprinkle salt.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Risotto ai Funghi",
+                "ingredients": [
+                    "Arborio rice",
+                    "Mushrooms",
+                    "Chicken broth",
+                    "Onion",
+                    "White wine",
+                    "Parmesan cheese",
+                    "Butter"
+                ],
+                "cookingMethod": "Sauté mushrooms and onions, add rice, deglaze with wine, gradually add broth, stir in Parmesan and butter.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Eggs",
+                    "Sugar",
+                    "Cocoa powder"
+                ],
+                "cookingMethod": "Dip ladyfingers in espresso, layer with a mixture of mascarpone, eggs, and sugar. Dust with cocoa powder.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Pasta Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Guanciale",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Black pepper",
+                    "Salt"
+                ],
+                "cookingMethod": "Sauté guanciale, mix eggs with cheese, toss with cooked spaghetti. Season with black pepper and salt.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "_id": "65aa1354b4896920b1be3981",
+        "chefName": "Elena Conti",
+        "experienceYears": 14,
+        "numOfRecipes": 110,
+        "likes": 24000,
+        "shortBio": "Infusing passion and creativity into every dish she creates.",
+        "chefPicture": "elena_conti.jpg",
+        "recipes": [
+            {
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Ground beef",
+                    "Tomatoes",
+                    "Onions",
+                    "Garlic",
+                    "Spaghetti",
+                    "Olive oil",
+                    "Basil",
+                    "Oregano"
+                ],
+                "cookingMethod": "Brown ground beef, sauté onions and garlic, add tomatoes and herbs, simmer. Serve over cooked spaghetti.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomato sauce",
+                    "Fresh mozzarella",
+                    "Basil leaves",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "cookingMethod": "Roll out pizza dough, spread sauce, add cheese and basil. Bake until crust is golden. Drizzle with olive oil and sprinkle salt.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Risotto ai Funghi",
+                "ingredients": [
+                    "Arborio rice",
+                    "Mushrooms",
+                    "Chicken broth",
+                    "Onion",
+                    "White wine",
+                    "Parmesan cheese",
+                    "Butter"
+                ],
+                "cookingMethod": "Sauté mushrooms and onions, add rice, deglaze with wine, gradually add broth, stir in Parmesan and butter.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Eggs",
+                    "Sugar",
+                    "Cocoa powder"
+                ],
+                "cookingMethod": "Dip ladyfingers in espresso, layer with a mixture of mascarpone, eggs, and sugar. Dust with cocoa powder.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Pasta Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Guanciale",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Black pepper",
+                    "Salt"
+                ],
+                "cookingMethod": "Sauté guanciale, mix eggs with cheese, toss with cooked spaghetti. Season with black pepper and salt.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "_id": "65aa1354cd0631d03795ebce",
+        "chefName": "Antonio Marini",
+        "experienceYears": 16,
+        "numOfRecipes": 140,
+        "likes": 27000,
+        "shortBio": "A maestro in the art of blending flavors to perfection.",
+        "chefPicture": "antonio_marini.jpg",
+        "recipes": [
+            {
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Ground beef",
+                    "Tomatoes",
+                    "Onions",
+                    "Garlic",
+                    "Spaghetti",
+                    "Olive oil",
+                    "Basil",
+                    "Oregano"
+                ],
+                "cookingMethod": "Brown ground beef, sauté onions and garlic, add tomatoes and herbs, simmer. Serve over cooked spaghetti.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomato sauce",
+                    "Fresh mozzarella",
+                    "Basil leaves",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "cookingMethod": "Roll out pizza dough, spread sauce, add cheese and basil. Bake until crust is golden. Drizzle with olive oil and sprinkle salt.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Risotto ai Funghi",
+                "ingredients": [
+                    "Arborio rice",
+                    "Mushrooms",
+                    "Chicken broth",
+                    "Onion",
+                    "White wine",
+                    "Parmesan cheese",
+                    "Butter"
+                ],
+                "cookingMethod": "Sauté mushrooms and onions, add rice, deglaze with wine, gradually add broth, stir in Parmesan and butter.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Eggs",
+                    "Sugar",
+                    "Cocoa powder"
+                ],
+                "cookingMethod": "Dip ladyfingers in espresso, layer with a mixture of mascarpone, eggs, and sugar. Dust with cocoa powder.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Pasta Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Guanciale",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Black pepper",
+                    "Salt"
+                ],
+                "cookingMethod": "Sauté guanciale, mix eggs with cheese, toss with cooked spaghetti. Season with black pepper and salt.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "_id": "65aa1354672cad4e93103f0e",
+        "chefName": "Giulia De Luca",
+        "experienceYears": 13,
+        "numOfRecipes": 105,
+        "likes": 23000,
+        "shortBio": "Crafting culinary masterpieces that evoke the spirit of Italy.",
+        "chefPicture": "giulia_deLuca.jpg",
+        "recipes": [
+            {
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Ground beef",
+                    "Tomatoes",
+                    "Onions",
+                    "Garlic",
+                    "Spaghetti",
+                    "Olive oil",
+                    "Basil",
+                    "Oregano"
+                ],
+                "cookingMethod": "Brown ground beef, sauté onions and garlic, add tomatoes and herbs, simmer. Serve over cooked spaghetti.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomato sauce",
+                    "Fresh mozzarella",
+                    "Basil leaves",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "cookingMethod": "Roll out pizza dough, spread sauce, add cheese and basil. Bake until crust is golden. Drizzle with olive oil and sprinkle salt.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Risotto ai Funghi",
+                "ingredients": [
+                    "Arborio rice",
+                    "Mushrooms",
+                    "Chicken broth",
+                    "Onion",
+                    "White wine",
+                    "Parmesan cheese",
+                    "Butter"
+                ],
+                "cookingMethod": "Sauté mushrooms and onions, add rice, deglaze with wine, gradually add broth, stir in Parmesan and butter.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Eggs",
+                    "Sugar",
+                    "Cocoa powder"
+                ],
+                "cookingMethod": "Dip ladyfingers in espresso, layer with a mixture of mascarpone, eggs, and sugar. Dust with cocoa powder.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Pasta Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Guanciale",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Black pepper",
+                    "Salt"
+                ],
+                "cookingMethod": "Sauté guanciale, mix eggs with cheese, toss with cooked spaghetti. Season with black pepper and salt.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "_id": "65aa13545416a7f1431aa300",
+        "chefName": "Marco Russo",
+        "experienceYears": 11,
+        "numOfRecipes": 95,
+        "likes": 21000,
+        "shortBio": "A culinary explorer, constantly pushing the boundaries of taste.",
+        "chefPicture": "marco_russo.jpg",
+        "recipes": [
+            {
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Ground beef",
+                    "Tomatoes",
+                    "Onions",
+                    "Garlic",
+                    "Spaghetti",
+                    "Olive oil",
+                    "Basil",
+                    "Oregano"
+                ],
+                "cookingMethod": "Brown ground beef, sauté onions and garlic, add tomatoes and herbs, simmer. Serve over cooked spaghetti.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomato sauce",
+                    "Fresh mozzarella",
+                    "Basil leaves",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "cookingMethod": "Roll out pizza dough, spread sauce, add cheese and basil. Bake until crust is golden. Drizzle with olive oil and sprinkle salt.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Risotto ai Funghi",
+                "ingredients": [
+                    "Arborio rice",
+                    "Mushrooms",
+                    "Chicken broth",
+                    "Onion",
+                    "White wine",
+                    "Parmesan cheese",
+                    "Butter"
+                ],
+                "cookingMethod": "Sauté mushrooms and onions, add rice, deglaze with wine, gradually add broth, stir in Parmesan and butter.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Eggs",
+                    "Sugar",
+                    "Cocoa powder"
+                ],
+                "cookingMethod": "Dip ladyfingers in espresso, layer with a mixture of mascarpone, eggs, and sugar. Dust with cocoa powder.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Pasta Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Guanciale",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Black pepper",
+                    "Salt"
+                ],
+                "cookingMethod": "Sauté guanciale, mix eggs with cheese, toss with cooked spaghetti. Season with black pepper and salt.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "_id": "65aa1354a6461cedfe8f40a6",
+        "chefName": "Sophia Ferrari",
+        "experienceYears": 17,
+        "numOfRecipes": 125,
+        "likes": 26000,
+        "shortBio": "Marrying tradition with innovation to create unforgettable dining experiences.",
+        "chefPicture": "sophia_ferrari.jpg",
+        "recipes": [
+            {
+                "recipeName": "Spaghetti Bolognese",
+                "ingredients": [
+                    "Ground beef",
+                    "Tomatoes",
+                    "Onions",
+                    "Garlic",
+                    "Spaghetti",
+                    "Olive oil",
+                    "Basil",
+                    "Oregano"
+                ],
+                "cookingMethod": "Brown ground beef, sauté onions and garlic, add tomatoes and herbs, simmer. Serve over cooked spaghetti.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomato sauce",
+                    "Fresh mozzarella",
+                    "Basil leaves",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "cookingMethod": "Roll out pizza dough, spread sauce, add cheese and basil. Bake until crust is golden. Drizzle with olive oil and sprinkle salt.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Risotto ai Funghi",
+                "ingredients": [
+                    "Arborio rice",
+                    "Mushrooms",
+                    "Chicken broth",
+                    "Onion",
+                    "White wine",
+                    "Parmesan cheese",
+                    "Butter"
+                ],
+                "cookingMethod": "Sauté mushrooms and onions, add rice, deglaze with wine, gradually add broth, stir in Parmesan and butter.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Tiramisu",
+                "ingredients": [
+                    "Ladyfingers",
+                    "Espresso",
+                    "Mascarpone cheese",
+                    "Eggs",
+                    "Sugar",
+                    "Cocoa powder"
+                ],
+                "cookingMethod": "Dip ladyfingers in espresso, layer with a mixture of mascarpone, eggs, and sugar. Dust with cocoa powder.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Pasta Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Guanciale",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Black pepper",
+                    "Salt"
+                ],
+                "cookingMethod": "Sauté guanciale, mix eggs with cheese, toss with cooked spaghetti. Season with black pepper and salt.",
+                "rating": 4.6
+            }
+        ]
+    }
+]
